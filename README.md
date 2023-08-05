@@ -1,6 +1,7 @@
 # Text-Summarization-Using-NLP-and-Fine-Tuning
 
 ## Architecture
+![Text Summarizer](https://github.com/VenkateshL1921/Text-Summarization-Using-NLP-and-Fine-Tuning/assets/108605062/6c23b4c9-9504-4f46-a173-a56355fe610a)
 
 # How to run?
 ### STEPS:
