@@ -1,6 +1,7 @@
 # Text-Summarization-Using-NLP-and-Fine-Tuning
 
 ## Architecture
+![Text Summarizer](https://github.com/VenkateshL1921/Text-Summarization-Using-NLP-and-Fine-Tuning/assets/108605062/6c23b4c9-9504-4f46-a173-a56355fe610a)
 
 # How to run?
 ### STEPS:
@@ -91,8 +92,8 @@ Open FastAPI app
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = 
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = 
