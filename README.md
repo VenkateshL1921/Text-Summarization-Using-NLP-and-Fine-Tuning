@@ -8,7 +8,7 @@
 ### STEP 01- Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/VenkateshL1921/Text-Summarization-Using-NLP-and-Fine-Tuning.git
 ```
 ### STEP 02- Create a conda environment after opening the repository and activate it
 
